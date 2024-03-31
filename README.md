@@ -1,4 +1,4 @@
-Project: #Bank Management System
+# Bank Management System
 
 Introduction:
 implementation of Bank management System in Java programming lanaguage
@@ -6,7 +6,7 @@ XYZ Bank aims to streamline the operations of one of its branches by automating 
 This includes over-the-counter activities, account lifecycle management, interest calculation, and generating end-of-day reports for daily transactions.
 The system will handle various types of accounts, each with specific features and requirements.
 
-#Features:
+# Features:
 
 1). Over the Counter Activities:
 Implement functionality for tellers to perform common banking activities such as deposits, withdrawals, transfers, and account inquiries.
@@ -20,7 +20,7 @@ Integrate algorithms to calculate interest for applicable accounts based on thei
 4).End of Day Report:
 Generate a comprehensive report summarizing daily transactions, including details of deposits, withdrawals, transfers, and account closures.
 
-#Account Types:
+# Account Types:
 
 1). Savings Account:
 Individuals use savings accounts for personal purposes.
@@ -41,6 +41,6 @@ Track the amount of loan repaid by customers.
 Initial balance is negative (loan amount), and interest is calculated accordingly.
 Functionality to manage repayments and interest calculations.
 
-#Conclusion:
+# Conclusion:
 The Automated Bank Management System for XYZ Bank's branch will streamline operations, enhance customer service, and improve efficiency in handling various types of accounts and transactions. 
 It will ensure compliance with account-specific requirements and facilitate better management of financial services for the bank and its customers.
